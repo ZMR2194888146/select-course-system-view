@@ -1,0 +1,9 @@
+export const GET_USER_LIST = "manager/getUserList";
+export const ADD_USER_LIST = "manager/addUserList";
+export const DO_CONFIRM_SHOW = "manager/doConfirmShow";
+export const DO_CONFIRM_CANCEL = "manage/doConfirmCancel";
+export const DO_CONFIRM_OK = "manager/doConfirmOk";
+export const DID_MANAGER_USER = "manager/didManagerUser";
+export const DO_CHANGE_FRESH_STATU = "manager/doChangeFreshStatu";
+export const SHOW_MODAL = "manager/showModal";
+export const DEAL_RESULT = "manager/dealResult";
